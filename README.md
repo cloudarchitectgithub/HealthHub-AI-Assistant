@@ -239,7 +239,7 @@ Ensure that you have your API keys and service account files ready from:
 <br />
 
 #### Step 3: User Registration
-- **Register a doctor and a patient.** (Example: Register Dr. Jean Rodriguez and patient David Lee).
+- **Register a doctor and a patient.** (Example: Register Dr. Jean Rodriguez and patient Ava Browm).
 
 <p align="center">
 <img src="https://i.imgur.com/Ys2cAwy.png" height="80%" width="80%" alt="Pic"/>
