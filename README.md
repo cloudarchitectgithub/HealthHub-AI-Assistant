@@ -283,7 +283,7 @@ Ensure that you have your API keys and service account files ready from:
    - Upload an X-ray image for analysis through Google Cloud Vision AI.
 
 <p align="center">
-<img src="https://i.imgur.com/OoCdZRn.jpeg" height="80%" width="80%" alt="Pic"/>
+<img src="https://i.imgur.com/NR5jUl2.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
 
